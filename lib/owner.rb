@@ -10,6 +10,6 @@ class Owner
   end
 
   def self.all
-    OWNERS 
+    OWNERS
   end
 end
