@@ -17,6 +17,6 @@ class Owner
 
   def buy_fish(name)
   end
-  
+
 
 end
