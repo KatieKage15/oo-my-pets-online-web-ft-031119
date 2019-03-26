@@ -7,5 +7,4 @@ class Owner
 
   initialize(pets)
     @pets = pets
-  end
 end
