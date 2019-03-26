@@ -2,7 +2,7 @@ class Owner
 
   attr_accessor :pets
 
-  @@all = []
+  OWNERS = []
 
   def initialize(pets)
     @pets = pets
@@ -10,6 +10,6 @@ class Owner
   end
 
   def self.all
-    @@all
+    OWNERS 
   end
 end
