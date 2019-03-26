@@ -4,7 +4,7 @@ class Owner
   fishes = []
   cats = []
   dogs = []
-  
+
   initialize(pets)
     @pets = pets
   end
