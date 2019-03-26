@@ -1,3 +1,6 @@
 class Dog
-  # code goes here
+
+  initialize(name)
+    @name = name
+  end
 end
