@@ -14,5 +14,8 @@ class Owner
     OWNERS
   end
 
+  def self.count
+    OWNERS.size
+  end
 
 end
