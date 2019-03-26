@@ -5,6 +5,7 @@ class Owner
   cats = []
   dogs = []
 
-  initialize(pets)
+  def initialize(pets)
     @pets = pets
+  end
 end
